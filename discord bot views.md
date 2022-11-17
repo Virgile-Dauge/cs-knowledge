@@ -1,3 +1,7 @@
+---
+tags: [python, disnake]
+---
+
 ```python
 import disnake
 from typing import Optional

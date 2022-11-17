@@ -1,6 +1,9 @@
 ---
-tags: python
+tags: [python, disnake]
 ---
+
+# Setup 
+https://discord.com/developers/applications/
 
 # Base 
 

@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "3d7f8955b91f19ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46dbb59bc87a344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72556e69c36bd1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inline image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d4dde96505a0923",
+    "type": "split",
+    "children": [
+      {
+        "id": "037ed904bf59a6f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6295b7a2ee32e63c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2c4931bc6e9c555",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb492f3fddf90399",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "172c3bea7d2c66bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4082eeadb05fb2b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c209b1edd5dd407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inline image.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d547581dd9cffe8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inline image.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ed49c134ec88bce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44182faf7367225b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inline image.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72556e69c36bd1e1",
+  "lastOpenFiles": [
+    "CWD.md",
+    "discord bot views.md",
+    "Discord bots.md",
+    "How to deploy.md",
+    "Inline image.md",
+    "Split iterable in fixed size subiterables.md",
+    "IO.md"
+  ]
+}

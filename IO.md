@@ -1,0 +1,7 @@
+---
+tags: python
+---
+
+# CWD
+
+[[CWD]]

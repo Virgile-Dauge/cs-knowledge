@@ -41,3 +41,6 @@ async def hello(inter: ApplicationCommandInteraction,
     # Édite le message avec la réponse finale
     await inter.edit_original_message(embed=embed)
 ```
+
+# Interfaces interactives
+[[discord bot views]]

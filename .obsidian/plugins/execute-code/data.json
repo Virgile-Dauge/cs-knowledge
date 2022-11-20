@@ -15,7 +15,7 @@
   "csPath": "dotnet-script",
   "csArgs": "",
   "csInject": "",
-  "pythonPath": "C:/Users/virgi/AppData/Local/Programs/Python/Python310/python.exe",
+  "pythonPath": "C:/Users/virgi/anaconda3/envs/p310/python.exe",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonInject": "",

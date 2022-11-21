@@ -1,0 +1,5 @@
+---
+tags: [python/op]
+---
+
+[[Modulo]]

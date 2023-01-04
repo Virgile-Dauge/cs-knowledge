@@ -1,5 +1,5 @@
 ---
-python
+tags: [python, meta]
 ---
 
 ```run-python

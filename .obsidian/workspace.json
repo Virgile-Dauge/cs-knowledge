@@ -4,71 +4,167 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1dfd2998723418",
+        "id": "9d32fbb44088e0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7eeb3f31364d394",
+            "id": "cf6c1ba189a8c3f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "climate/ML for predicting weather and climate.md",
+                "file": "file formats/NetCDF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10910b4852363d8f",
+            "id": "faeeac844793161f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "climate/ML for predicting weather and climate.md",
+                "file": "Sources données/Tronçons hydrographiques.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "667e393501b3a34d",
+            "id": "5e369de9bbb2981e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cell magics.md",
+                "file": "ML/DL/Intro to DL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff232aae898a45ab",
+            "id": "760f3aa48e75b443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "climate/ML for predicting weather and climate.md",
+                "file": "ML/DL/Activation functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "941d8652e897f3f5",
+            "id": "5be7e3bc0fc1b44b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NetCDF.md",
+                "file": "ML/DL/The Loss Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fc3103514911949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/The Optimizer - Stochastic Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3517242749f04b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/The Optimizer - Stochastic Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "673d2381d1f66018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/Under or over fitting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0abc8ce67f03d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/Dropout and Batch Normalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13da77f9f70f7055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/Accuracy and Cross-Entropy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d7a13a1c1e4226b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/How to deploy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2208affc6467cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/Activation functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "340e92b6b02bd967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/DL/Transfer learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -134,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NetCDF.md",
+                "file": "ML/DL/Transfer learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NetCDF.md",
+                "file": "ML/DL/Transfer learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NetCDF.md"
+                "file": "ML/DL/Transfer learning.md"
               }
             }
           }
@@ -195,17 +291,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "941d8652e897f3f5",
+  "active": "340e92b6b02bd967",
   "lastOpenFiles": [
-    "climate/ML for predicting weather and climate.md",
-    "Climate Data Store API.md",
-    "Cell magics.md",
-    "climate/Climate change AI.md",
-    "python/Iterables/Concat iterable into str.md",
-    "pandas/Pandas.md",
-    "Sources données/Éolien.md",
-    "Sources données/Debit rivières aux abords des hydrau.md",
-    "Stations Hydromètriques.md",
-    "Sources données/Bassins versants.md"
+    "ML/Glossary.md",
+    "ML/DL/Activation functions.md",
+    "ML/DL/Accuracy and Cross-Entropy.md",
+    "ML/DL/Under or over fitting.md",
+    "ML/DL/The Optimizer - Stochastic Gradient Descent.md",
+    "ML/Weights and Bias.md",
+    "ML/Hugging Face.md",
+    "ML/ML Cheat sheet.md",
+    "ML/Outils ML.md",
+    "meta/How to deploy.md"
   ]
 }

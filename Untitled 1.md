@@ -1,3 +1,0 @@
-```python
-Aubergine 4 8 Blette 3 8 Betterave rouge 4 Carotte 5 Céleri branche 3 8 Chou Brocoli 1,5 Chou fleur 1,5 Chou rave 3 3 Concombre 2 4 Courge 4 Potimarron 2 Courgette 4 6 Épinard 2 5 Fenouil 2 3,5 Fève 3 Haricot vert 1,5 3 Laitue 10 pièces 11 pièces Melon 3 3 Navet 2 3 Oignon jaune 3 Poireau 2,5 Petit pois 1 Poivron 2,5 5 Pomme de terre 2,5 Radis noir 4 Radis rose - rouge 7 bottes 7 bottes Scarole frisée 7 pièces 10 pièces Tomate ronde 8 10 Tomate ancienne 4 5"
-```

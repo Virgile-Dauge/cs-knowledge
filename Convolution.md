@@ -1,5 +1,5 @@
 # quèsaco ?
-C'est uneoperation élémentaire de combinaison de fonctions, comme l'addition ou la mutiplication des termes.
+C'est une operation élémentaire de combinaison de fonctions, comme l'addition ou la mutiplication des termes.
 
 https://www.youtube.com/watch?v=KuXjwB4LzSA
 
@@ -18,7 +18,7 @@ a2 = np.random.random(100000)
 np.convolve(a1, a2)
 ```
 
-En utilisant la méthode rapide
+En utilisant la méthode plus rapide (plusieurs ordres de grandeurs !)
 ```python
 import scipy.signal
 a1 = np.random.random(100000)

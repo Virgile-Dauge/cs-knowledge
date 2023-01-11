@@ -8,163 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf6c1ba189a8c3f2",
+            "id": "10ecbce944e80096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file formats/NetCDF.md",
+                "file": "Sources données/hydrographie BD TOPO IGN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "faeeac844793161f",
+            "id": "5409cd09f9f14dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources données/Tronçons hydrographiques.md",
+                "file": "python/geopandas/geopandas plot.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e369de9bbb2981e",
+            "id": "f62dc7b0c2d72361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/DL/Intro to DL.md",
+                "file": "ML/Outliers removal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "760f3aa48e75b443",
+            "id": "17b50968056616d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/DL/Activation functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5be7e3bc0fc1b44b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/The Loss Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fc3103514911949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/The Optimizer - Stochastic Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3517242749f04b79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/The Optimizer - Stochastic Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "673d2381d1f66018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/Under or over fitting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0abc8ce67f03d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/Dropout and Batch Normalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13da77f9f70f7055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/Accuracy and Cross-Entropy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d7a13a1c1e4226b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meta/How to deploy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e2208affc6467cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/Activation functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "340e92b6b02bd967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/DL/Transfer learning.md",
+                "file": "meta/Tableaux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/DL/Transfer learning.md",
+                "file": "ML/Outliers removal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/DL/Transfer learning.md",
+                "file": "ML/Outliers removal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/DL/Transfer learning.md"
+                "file": "ML/Outliers removal.md"
               }
             }
           }
@@ -291,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "340e92b6b02bd967",
+  "active": "6295b7a2ee32e63c",
   "lastOpenFiles": [
-    "ML/Glossary.md",
-    "ML/DL/Activation functions.md",
-    "ML/DL/Accuracy and Cross-Entropy.md",
-    "ML/DL/Under or over fitting.md",
-    "ML/DL/The Optimizer - Stochastic Gradient Descent.md",
-    "ML/Weights and Bias.md",
-    "ML/Hugging Face.md",
-    "ML/ML Cheat sheet.md",
-    "ML/Outils ML.md",
-    "meta/How to deploy.md"
+    "python/geopandas/geopandas plot.md",
+    "Sources données/hydrographie BD TOPO IGN.md",
+    "meta/Tableaux.md",
+    "meta/Insérer un PDF.md",
+    "Sources données/Tronçons hydrographiques.md",
+    "Unique.md",
+    "python/geopandas/Personaliser affichage explore.md",
+    "python/geopandas/Afficher une carte.md",
+    "Urbanisme.md",
+    "Sources données/Prix immobiliers.md"
   ]
 }

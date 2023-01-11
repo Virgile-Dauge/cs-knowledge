@@ -1,7 +1,7 @@
 
-
-
 # ReLU 
+https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
+
 Applying a ReLU activation to a linear unit means the output becomes `max(0, w * x + b)`
 
 # Sigmoid Activation

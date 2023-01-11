@@ -6,6 +6,8 @@ The problem with accuracy (and most other classification metrics) is that it can
 
 For classification, what we want instead is a distance between _probabilities_, and this is what cross-entropy provides. **Cross-entropy** is a sort of measure for the distance from one probability distribution to another
 
+#loss
+
 ```python
 model.compile(
     optimizer='adam',

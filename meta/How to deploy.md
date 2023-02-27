@@ -15,3 +15,12 @@ https://notes.aadimator.com/SBYNtPHqsTW9Ck1Kuoxsu/
 
 https://docusaurus.io/
 https://www.gitbook.com/
+
+https://rust-lang.github.io/mdBook/
+Pas d'édition en ligne, open source
+
+https://www.bookstackapp.com/
+Édition en ligne, open source, BD
+
+https://docsify.js.org/#/?id=docsify
+Pas d'édition en ligne, open source

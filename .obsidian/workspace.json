@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources données/hydrographie BD TOPO IGN.md",
+                "file": "Untitled 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "c065c989457d2f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/bin in string to int.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f681a7206e9a922d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Regex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed7e068f16bb1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "get numbers from string.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "17b50968056616d3",
             "type": "leaf",
             "state": {
@@ -55,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Outliers removal.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Outliers removal.md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Outliers removal.md"
+                "file": "Untitled 3.md"
               }
             }
           }
@@ -183,17 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6295b7a2ee32e63c",
+  "active": "10ecbce944e80096",
   "lastOpenFiles": [
-    "python/geopandas/geopandas plot.md",
+    "Suites.md",
     "Sources données/hydrographie BD TOPO IGN.md",
-    "meta/Tableaux.md",
-    "meta/Insérer un PDF.md",
-    "Sources données/Tronçons hydrographiques.md",
-    "Unique.md",
-    "python/geopandas/Personaliser affichage explore.md",
-    "python/geopandas/Afficher une carte.md",
-    "Urbanisme.md",
-    "Sources données/Prix immobiliers.md"
+    "python/Regex.md",
+    "Untitled.md",
+    "python/bin in string to int.md",
+    "python/Duplicatas dans une liste.md",
+    "Convolution.md",
+    "Détecter les répétitions.md",
+    "Interpolation polynomiale.md",
+    "Roues hydrauliques.md"
   ]
 }
